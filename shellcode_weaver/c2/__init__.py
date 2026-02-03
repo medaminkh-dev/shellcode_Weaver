@@ -1,0 +1,1 @@
+"""C2 integration (stubs for future implementation)"""

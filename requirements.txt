@@ -1,0 +1,20 @@
+# Core dependencies
+cryptography>=41.0.0
+
+# Optional: Assembly engines (uncomment if needed)
+# keystone-engine>=0.9.2
+# capstone>=5.0.0
+
+# Optional: Flask for API
+# flask>=2.3.0
+
+# Optional: GUI
+# pyqt5>=5.15.0
+# pyqtgraph>=0.13.0
+
+# Development dependencies (install with: pip install -e .[dev])
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=23.0.0
+# flake8>=6.0.0
+# mypy>=1.0.0

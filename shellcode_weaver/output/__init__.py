@@ -1,0 +1,1 @@
+"""Output formatters (stubs for future implementation)"""
