@@ -1,6 +1,6 @@
 """
 ================================================================================
-SHELLCODE WEAVER v4.0 - Ultimate Polymorphic Shellcode Engine
+SHELLCODE WEAVER  - Ultimate Polymorphic Shellcode Engine
 ================================================================================
 
 LEGAL NOTICE:
