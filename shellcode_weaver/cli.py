@@ -22,7 +22,7 @@ def create_parser() -> argparse.ArgumentParser:
     """Create CLI argument parser"""
     parser = argparse.ArgumentParser(
         prog="shellcode-weaver",
-        description="Shellcode Weaver v4.0 - Ultimate Polymorphic Shellcode Engine\n"
+        description="Shellcode Weaver  - Ultimate Polymorphic Shellcode Engine\n"
                     "⚠️  LEGAL NOTICE: For authorized security testing only",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
