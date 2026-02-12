@@ -1,4 +1,4 @@
-# 🎯 Shellcode Weaver v4.0 - Complete Learning Guide
+# 🎯 Shellcode Weaver  - Complete Learning Guide
 
 Welcome! This is a **professional security research tool** for learning about shellcode generation, mutation, and analysis. Think of it as a **toolkit for understanding how security professionals test systems** they're authorized to work on.
 
@@ -89,7 +89,7 @@ pip install -e .[full,dev]
 ```bash
 # Quick test
 python3 -m shellcode_weaver.cli --version
-# Output: Shellcode Weaver v4.0.0
+# Output: Shellcode Weaver 
 ```
 
 ---
@@ -361,7 +361,7 @@ python3 -m shellcode_weaver.cli mutate \
 ```bash
 python3 -m shellcode_weaver.cli --version
 
-# Output: Shellcode Weaver v4.0.0
+# Output: Shellcode Weaver 
 ```
 
 ---
