@@ -33,7 +33,7 @@ import warnings
 
 # Legal warning
 warnings.warn(
-    "SHELLCODE WEAVER v4.0: This tool is for AUTHORIZED security testing only. "
+    "SHELLCODE WEAVER : This tool is for AUTHORIZED security testing only. "
     "Unauthorized use is illegal. See LICENSE file for full terms.",
     category=UserWarning,
     stacklevel=2
